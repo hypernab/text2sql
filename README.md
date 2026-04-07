@@ -1,6 +1,5 @@
 # Text2SQL
 **Translate natural language into executable SQL queries in real-time.**
-https://text2sql-prabhnoor.streamlit.app/
 <p align="left">
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg" width="100">
   <img src="https://img.shields.io/badge/python-3.13+-blue.svg" height="25">
