@@ -1,6 +1,6 @@
 # Text2SQL 
-Translate natural language into executable SQL queries in real-time.
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg)](https://text2sql-prabhnoor.streamlit.app/)
+Translate natural language into executable SQL queries in real-time.\n
+[![Streamlit App](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg)](https://text2sql-prabhnoor.streamlit.app/)
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
 ## ✨ What it does
